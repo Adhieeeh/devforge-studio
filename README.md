@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+#  DevForge — Reactive Markdown Component Studio (Vue.js)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+DevForge is a single-page utility workbench engineered using modern Vue.js v3 composition scripting rules. It maps instant two-way data bindings (`v-model`) alongside optimized string cache aggregators (`computed`) to compile and parse clean code blocks dynamically.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+##  Framework Features Explored
+*  **Two-Way Reactivity Mapping:** Harnesses native Vue directives to maintain real-time string state parameters effortlessly.
+*  **Encapsulated Composition Structure:** Manages all rendering scripts, templates, and styling attributes localized inside a single asset wrapper component module (`App.vue`).
+
+##  Execution Instructions
+1. Install dependencies: `npm install`
+2. Run development compiler: `npm run dev`
