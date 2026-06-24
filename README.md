@@ -13,5 +13,9 @@ DevForge is a single-page utility workbench engineered using modern Vue.js v3 co
 *  **Encapsulated Composition Structure:** Manages all rendering scripts, templates, and styling attributes localized inside a single asset wrapper component module (`App.vue`).
 
 ##  Execution Instructions
+--------------------------------------------------------------------------
+
 1. Install dependencies: `npm install`
 2. Run development compiler: `npm run dev`
+
+---------------------------------------------------------------------------
