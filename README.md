@@ -5,7 +5,7 @@ DevForge is a single-page utility workbench engineered using modern Vue.js v3 co
 
 ## Preview
 ----------------------------------------------------------------------
-![]
+![]()
 ##  Framework Features Explored
 *  **Two-Way Reactivity Mapping:** Harnesses native Vue directives to maintain real-time string state parameters effortlessly.
 *  **Encapsulated Composition Structure:** Manages all rendering scripts, templates, and styling attributes localized inside a single asset wrapper component module (`App.vue`).
